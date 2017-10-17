@@ -22,3 +22,7 @@ h1{
   text-align:center;
   color:#000;
 }
+
+.selected{
+  background:#0000ff;
+}
